@@ -12,7 +12,7 @@ Patika.dev bünyesinde GIT modülü ödevini içermektedir.
 ## Installation  
 Proje klonu
 
-```http
+```bash
 gh repo clone berceou/Kodluyoruz-ilk-repo
 ```  
 
